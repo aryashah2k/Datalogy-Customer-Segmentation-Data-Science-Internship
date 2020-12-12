@@ -16,6 +16,12 @@ To be added.
 
 ## 📖 Resources
 
+|Resource Name|Link To Resource|
+|----------|----------|
+|Heirarchical Clustering Notes|<a href="https://github.com/aryashah2k/Datalogy-Customer-Segmentation-Data-Science-Internship/blob/main/Resources/10.1%20-%20Hierarchical%20Clustering%20_%20STAT%20555.pdf">Click To View</a>|
+|Examples Of Heirarchical Clustering Notes|<a href="https://github.com/aryashah2k/Datalogy-Customer-Segmentation-Data-Science-Internship/blob/main/Resources/10.2%20-%20Example_%20Agglomerative%20Hierarchical%20Clustering%20_%20STAT%20555.pdf">Click To View</a>|
+|PowerPoint Presentation On Clustering|<a href="https://github.com/aryashah2k/Datalogy-Customer-Segmentation-Data-Science-Internship/blob/main/Resources/Clustering.pptx">Click to View PPT</a>|
+
 ## 🎓 Achievement + Internship Certificate
 <a href="https://github.com/aryashah2k/Datalogy-Customer-Segmentation-Data-Science-Internship/blob/main/assets/Datalogy-Certificate%20Of%20Completion%5BArya%20Shah%5D.pdf">Click to View Internship Completion Certificate</a>
 
