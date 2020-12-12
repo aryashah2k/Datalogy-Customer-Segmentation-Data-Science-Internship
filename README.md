@@ -16,7 +16,7 @@ To be added.
 
 ## 📖 Resources
 
-## 🎓 [Certificate]()
+## 🎓 Achievement + Internship Certificate
 <a href="https://github.com/aryashah2k/Datalogy-Customer-Segmentation-Data-Science-Internship/blob/main/assets/Datalogy-Certificate%20Of%20Completion%5BArya%20Shah%5D.pdf">Click to View Internship Completion Certificate</a>
 
 The mode of selection for the internship was a scholarship quiz where I ranked 2nd Place and joint full score winner.
